@@ -1,0 +1,13 @@
+{
+  "id": "85ea3110-f3d5-50a1-a3e9-5550c1ad2571",
+  "publishedFileId": 3832501440,
+  "name": "Aeroportos BR – South Airport Logos",
+  "description": "[h1]Aeroportos BR – South Airport Logos[/h1]\n[b]4 airport identities from Sul, Brazil.[/b] CWB Curitiba, FLN Florianópolis, POA Porto Alegre, IGU Foz do Iguaçu.\n[h2]What you get[/h2]\nAirport marks where available, and actual operator marks where the airport has no separate mark in the verified source. Each option carries its airport code and city. These are contrast-backed identity cards composed for this mod, not a claim that every airport has a unique official logo. Original brand colours and proportions are preserved.\n[h2]How to use[/h2]\nActivate this pack in Mods, restart, then use the left/right logo arrows when creating an airport. The base game has no logo search or regional filter. The selected airport identity can be used through the game's own airport-logo object; this pack does not add 24 independent stickers or alter airlines. Your IATA entry will not be printed over the artwork.\nWorks alone, without code or Mod Loader. The five regional packs have different airports; combine any of them without duplicate entries. This is a curated selection, not every international airport or every airport in each state. A later logo update does not automatically replace the picture already stored in an existing save.\n[hr][/hr]\n[h1]Aeroportos BR – Logos do Sul[/h1]\n[b]4 identidades de aeroportos brasileiros:[/b] CWB Curitiba, FLN Florianópolis, POA Porto Alegre, IGU Foz do Iguaçu.\nMarcas próprias quando disponíveis e marcas reais das operadoras nos demais casos, com código e cidade para identificar a unidade. Os cartões com fundo de contraste são composições deste mod; não são apresentados como logos oficiais exclusivos de cada aeroporto. As cores e proporções das marcas foram preservadas.\nAtive em Mods, reinicie e escolha pelas setas de logo na criação do aeroporto. Não há busca ou filtro regional novo na interface. O objeto nativo de logo utiliza a identidade escolhida; o pacote não acrescenta adesivos independentes. Sem código, sem Mod Loader. Os cinco pacotes não repetem aeroportos. Atualizar o pacote não troca automaticamente a imagem já gravada num save.\nFan-made; no affiliation with the brands. Names and logos belong to their respective owners. / Mod feito por fã, sem vínculo com as marcas.",
+  "author": "Eduardo Campos",
+  "version": "0.1.0",
+  "iconFileName": "Icon.png",
+  "modType": "Businesses",
+  "tags": [
+    "Logo"
+  ]
+}
